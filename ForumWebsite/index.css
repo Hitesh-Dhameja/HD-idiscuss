@@ -1,0 +1,105 @@
+.above-footer {
+    top: 2rem;
+    border-top: 2px solid rgb(187, 185, 185);
+}
+
+.above-footer p {
+    margin-left: 25rem;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.above-footer p span {
+    font-weight: bold;
+}
+
+.above-footer form {
+    margin-left: 23rem;
+}
+
+.above-footer form input {
+    width: 22rem;
+    height: 2.5rem;
+    border-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.above-footer form button {
+    margin-top: 2rem;
+    height: 2.5rem;
+    width: 10rem;
+    color: whitesmoke;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.icons-above-footer {
+    margin-top: 2rem;
+    margin-left: 31rem;
+    margin-bottom: 1rem;
+    display: inline-flex;
+}
+
+.icons-above-footer .icon-foot i {
+    color: blue;
+    margin-left: 1rem;
+}
+
+.footer {
+    bottom: 0;
+    width: auto;
+    background: black;
+}
+
+.footer-inside {
+    display: inline-flex;
+    color: whitesmoke;
+}
+
+.foot {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.foot pre {
+    margin-top: 2rem;
+    color: whitesmoke;
+}
+
+.foot h6 {
+    margin-top: 1rem;
+}
+
+    /* .foot-cat{
+    margin-left: 3rem;
+    margin-top: 2rem;
+} */
+.foot ul {
+    margin-top: 2rem;
+    list-style: none;
+}
+
+.foot li {
+    margin-top: 1rem;
+}
+
+.foot h3 {
+    margin-left: 1rem;
+}
+
+.copyright {
+    padding: 0;
+    display: inline-flex;
+    color: whitesmoke;
+    margin-left: 25rem;
+    margin-top: 5rem;
+}
+
+.passinput {
+    margin-left: 2.2rem;
+}
+
+.formcheck1 {
+    margin-left: -2rem;
+}
+    
